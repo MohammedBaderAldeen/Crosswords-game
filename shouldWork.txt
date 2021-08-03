@@ -1,0 +1,10 @@
+abcde: 1.
+afkpu: 2.
+fghij: 3.
+bglqv: 4.
+klmno: 5.
+chmrw: 6.
+pqrst: 7.
+dinsx: 8.
+uvwxy: 9.
+ejoty: 10.

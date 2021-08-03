@@ -1,0 +1,593 @@
+alpha: top dog.
+beta: test version.
+gamma: kind of ray.
+delta: triangular formation.
+epsilon: electomotive force symbol.
+zeta: sixth-brightest star in a constellation.
+theta: angle denoter.
+kappa: letter after beta in a society's name.
+lambda: upside-down v.
+omicron: pi preceder.
+omega: horseshoe-shaped.
+twin: certain bed size.
+guesswho: comment made while covering someone's eyes.
+madam: "dear sir or ___".
+income: revenue.
+corn: ears that can't hear.
+ball: event for cinderella.
+veto: ban.
+dplus: 67-69, gradewise.
+level: even.
+lamed: crippled.
+solo: han who's the title role of a 2018 film.
+advent: an arrival or coming, esp one which is awaited.
+assume: take the case to be true; accept without verification or proof.
+take in: take up mentally.
+deception: an illusory feat; considered magical by naive observers.
+decibel: a longarithmic unit of sound intensity.
+dechlorinate: remove chlorine from (water).
+decertify: cause to be no longer approved or accepted.
+phew: sigh of relief.
+eggs: they may be beaten and eaten.
+harmony: togetherness.
+realsoon: not too far from now.
+alee: the side of a ship that's sheltered from the wind.
+soho: londoners and new yorkers both have a neighbourhood bearing this name.
+smee: captain Hook's right-hand man in Peter Pan.
+common: available anywhere.
+boat: a small vessel for travel on water.
+rich: possessing material wealth.
+salt: add zest or liveliness to.
+sick: deeply affected by a strong feeling.
+canoe: small and light boat that is pointed at both ends.
+attic: a low wall at the top of the entablature.
+ferry: a boat that transports people or vehicles across a body of water.
+salty: the taste of sea water.
+weird: strikingly odd or unusual.
+absurd: a situation in which life seems irrational and meaningless.
+clever: showing inventiveness and skill.
+brilliant: shining intensely.
+different: not ordinary.
+eccentric: a person with an unusual or odd personality.
+hysterical: excessive or uncontrollable emotion.
+debug: put through beta testing.
+treenail: a wooden peg used to fasten timber.
+trainee: the one who receives training.
+taborine: a small drum.
+serotine: a european bat.
+senorita: an unmarried spanish girl or woman.
+retained: kept possession of.
+resonate: to resound.
+reobtain: to obtain again.
+relation: an association between people or things.
+reinstal: to install again.
+regional: somwthing that serves as a region.
+reaction: the act of reacting.
+organise: to form into an organic whole.
+oriental: an inhabitant of an eastern country.
+organdie: a cotton fabric.
+obtainer: one that obtains.
+notary: a public official who can certify documents.
+legation: the sending of an officail envoy.
+interage: including people of various ages.
+insolate: to expose to the sun's rays.
+ignaro: an ignorant person.
+idolater: one that worships idols.
+baritone: a deep male voice.
+asteroid: a rocky object found in orbits.
+arsenite: a chemical salt.
+aroint: to frighten away.
+ajar: partly open.
+jack: to raise with a type of a lever.
+jagg: to cut unevenly.
+join: to unite.
+just: fair,impartial.
+aqua: water.
+qadi: a muslim judge.
+quad: to space by means of quadrats.
+quip: to make witty remarks.
+quit: to depart from or stop.
+quiz: to interrogate.
+coax: to cajole, to persuade by flattery.
+exec: an executive officer.
+exed: to cross out.
+exit: to go out.
+expo: a public exhibition.
+faux: not genuine; fake.
+flex: to bend.
+flax: the fibers of the plant linum.
+jinx: to bring bad luck to.
+jynx: a bird related to the woodpecker.
+luxe: luxury.
+lynx: a short-tailed wildcat.
+maxi: a long skirt or coat.
+next: the person or thing that comes immediately after.
+onyx: a variety of quartz.
+oryx: an african antelope.
+plex: a short form of multiplex.
+roux: a mixture of butter and flour.
+text: to send a text message via mobile phone.
+azon: a radio-controlled aerial bomb.
+azym: unleavened bread.
+bize: a cold wind in switzerland.
+bozo: a dim witted fellow.
+buzz: to make a vibrating sound.
+chez: at the home of (prep).
+chiz: to cheat (v).
+cozy: t attempt to get on friendly terms.
+czar: an emperor or king.
+daze: to stun.
+ditz: a silly person.
+doze: to sleep lightly.
+dzho: a cross between a yak and a cow.
+faze: to unsettle.
+fizz: to make a hissing or sputtering sound.
+fozy: lacking freshness.
+friz: to curl hair tightly.
+futz: to spend time aimlessly.
+gaze: to look intently.
+geez: a mild oath.
+gizz: a wig.
+haze: to make a shimmering vapour.
+hazy: unclear.
+laze: to pass time idly.
+kuzu: a thickening agent used in macrobiotic.
+lazy: to move or lie sluggishly.
+lutz: a jump in figure skating.
+maze: to bewilder.
+mazy: full of confusing turns and passsages.
+mzee: an old person in east africa.
+nazi: a type of fascist.
+ooze: to leak slowly.
+orzo: rice-shaped pasta.
+ouzo: a greek liqueur.
+pize: to strike somebody.
+ritz: pretenious display.
+size: to cover with a weak gluey material.
+spaz: a clumsy, foolish, or incompetent person.
+whizz: to move rapidly with a hissing sound.
+zero: to aim at the centre of a target.
+zoom: to move with a buzzing sound.
+alone: solo, "home ___".
+arena: it often has a ring in the middle.
+atone: make amends, do penance.
+eerie: spine-tingling.
+enter: door sign.
+opera: "soap ____".
+irene: title woman in a Jim Carrey movie.
+irate: furious, seeing red.
+erato: poet's muse.
+erase: rub out, prepare for reuse, blank tapes?.
+aloe: "___ vera", healing balm, african lily.
+area: it may have a code, "nonesomking ____".
+eden: Adam and Eve locale.
+oreo: dunkable treat, snack since 1912.
+idea: something to think about.
+else: otherwise.
+adhocracy: a system of flexible and informal organization and management in place of a rigid bureaucracy.
+apodictic: necessarily true or logically certain.
+asperity: the quality of being hard to endure, uninviting or formidable.
+beatitiude: a statr of supreme happiness or blessedness.
+capricious: changeable; determined by chance or impulse or whim rather than nesessity or reason.
+captious: tending to find and call attention to faults.
+choleric: easily moved to anger.
+denouement: the unraveling of a plot or story; the outcome of a complex sequence of events.
+dilatory: slow to act; intended to cause delay.
+ekistics: the study of human settlements.
+extempore: with little or no preparation or forethought.
+fecundity: fertility or productiveness.
+lumpen: a member of the crude and uneducated lowest class of society; mentally sluggish.
+mendacious: dishonest; given to lying.
+mephistophelian: characteristic of a devil; wicked.
+nugatory: having little to no value.
+opsimath: a person who begins to learn or study only late in life.
+ornery: bad-tempered, irritable or very difficult and contrary.
+peccadillo: a petty misdeed, sin, offense.
+pellucid: transparent or clear( physically and metaphorically).
+percipient: discerning and quick in perceiving.
+phulogeny: the history or evolutionary development of something (ex species).
+prolixity: boring, drawn out verbosity.
+rubric: an established rule, tradition, or custom.
+sardonic: humorously mocking, scornful, or cynical.
+schadenfreude: delight taken in another's misfortune.
+sedentary: spending much time sitting and taking little exercise.
+teleology: explanation of phenomena in terms of a design or end purpose rather than in terms of their causes.
+timorous: having a timid or fearful disposition.
+truculent: scathingly harsh, ferocious.
+unctuous: fatty, oily, or greasy.
+venial: forgivable or pardonable.
+verdant: green and lush with grass or other rich vegetation.
+vitrine: a glass cobinet for displaying and protecting delicate items.
+washington: hero of the american revolution.
+adams: the only US president whose vice president ran against him to succeed him was John ____.
+jefferson: a US president who was also an architect, musician and inventor.
+madison: picture of a $5,000 bill.
+monroe: american president nicknamed Last of the Cocked Hats.
+wilson: WWI president.
+clown: a person who amuses others by ridiculous behavior.
+wags: moves from side to side.
+mime: act out without words but with gestures and bodily movements only.
+fool: a person who lacks good judgment.
+punch: deliver a quick blow to.
+yahoo: a widely used search engine for the web that finds information, news, images, products, finance.
+joker: a playing card that is usually printed with a picture of a jester.
+banana: elongated crescent-shaped yellow fruit.
+doodle: draw aimlessly.
+farmer: a person who operates a farm.
+jester: a professional clown employed to entertain a king or noblemen in the Middle Ages.
+acrobat: an athlete who performs acts requiring skill and agility and coordination.
+bungler: someone who makes mistakes because of incompetence.
+lunatic: insane and believed to be affected by the phases of the moon.
+parvenu: newcomer.
+peasant: ill-bred person lacking culture or refinement.
+punster: someone overly fond of making puns.
+schmuck: a jerk.
+upstart: a person who has suddenly risen to higher economic status but has not gained social acceptance of others in that class.
+comedian: a professional performer who tells jokes.
+bourgeoise: a member of the middle calss being of the property-owning class and exploitive of the working class (marxist thought).
+hillbilly: a disparaging term for an unsophisticated person.
+pantaloon: trousers worn in former times.
+prankster: someone who plays practical jokes on others.
+ringmaster: a person in charge of performances in a circus ring.
+provincial: (roman catholic church) an official in charge of an ecclesiastical province acting under the superior general of a religious order.
+nouveauriche: French, people who acquired their wealth within their own lifetime.
+sandman: an elf in fairy stories who sprinkles sand in shildren's eyes to make them sleepy.
+ducecap: a cone-shaped hat formerly placed on the head of slow or lazy pupils.
+nolie: I kid you not.
+wars: hawks push them.
+memento: keepsake.
+oral: kind of exam.
+ashton: Kutcher of  'that 70's show'.
+elle: 'Legally Blonde' girl.
+helpful: lending a hand.
+backtoschool: like some August sales.
+less: minus.
+slimy: morally reprehensible.
+luigi: Nintendo brother.
+bgame: not one's best effort, in sports.
+fill: occupy completely.
+sitcom: 'Parks and Recrearion'.
+kneecap: patella.
+unclesam: patriotic finger-pointer.
+linus: 'peanuts' boy with a blanket.
+tothe: ___point (concise).
+haiti: Port-au-Prince's land.
+veto: presidential prerogative.
+soon: procrastinator's promise.
+emit: radiate.
+coati: relative of a raccoon.
+avast: Sailor's cry.
+evil: Satan's doings.
+onion: Satirical news site, with 'the'.
+tabasco: sauce in a Bloody Mary.
+ucla: Sch that plays home football games at the Rose Bowl.
+maim: seriously wound.
+reba: singer McEntire.
+apnea: sleep disorder.
+wrap: Tortilla sandwich.
+goofs: wastes time, with 'off'.
+crosscountry: way to run or ski.
+urls: web addresses.
+arco: West Coast gas brand.
+surewhynot: 'what's there to lose?'.
+icon: word after computer or fashion.
+eatapeach: 1972 platinum album by the Allman Brothers Band.
+kilo: about 2,2 pounds, for short.
+owen: actor Wilson of 'Midnight in Paris'.
+jennifer: actress Aniston.
+yeas: affirmative votes.
+alvinailey: American Dance Theater founder.
+supe: apartment building overseer, informally.
+awed: blown away.
+gorgonzola: blue-veined Italian cheese.
+awashin: completely covered with.
+aplea: cop___ (confess in return for lighter punishment).
+staysaway: doesn't get near.
+orlon: DuPont fiber.
+ester: ending with poly-.
+docs: ER figures.
+data: facts and figures.
+soar: fly high.
+pales: gets whiter.
+groundscrew: group preparing a ball field for a game.
+floe: ice sheet.
+etta: James of jazz.
+tunasashimi: Japanese delicacy in thin slices.
+amor: Latin love.
+watts: light bulb units.
+easy: like Monday crosswords, relatively speaking.
+idle: not working.
+tailor: one always making adjustments to the job.
+expat: one living abroad, informally.
+asset: opposite of a liability.
+less: not so much.
+snap: '____ out of it!'.
+mtfuji: peak near Tokyo, Abbr.
+roget: Peter who compiled a book of synonyms.
+aegis: protection.
+raps: releases of Drake and Cardi B.
+torn: ripped.
+ohno: 'say it isn't so!'.
+ptas: school groups.
+snip: scissors sound.
+emit: send off, as rays.
+indeep: seriously involved.
+strati: sheetlike gray clouds.
+espadrille: shoe that ties around the ankle.
+sade: 'Smooth Operator' singer, 1995.
+ashblondes: some women with light-colored hair.
+asti: sparkling Italian wine.
+pollen: stuff that may make you go 'Ah-choo!'.
+rings: the Audi symbol has four of them.
+road: the Beatles' 'Abbey___'.
+ignore: tune out.
+ululate: wail in grief.
+pane: window section.
+nofat: 0% in the dairy aisle.
+omoo: 1847 novel of the sea.
+edges: a cylinder has two.
+oshea: actor Milo.
+dolly: aid for a tracking shot.
+siege: all-out attack.
+itoo: 'Am ___ sensitive?'.
+fiefie: angry shakespearean cry.
+tarsi: ankle bones.
+ayear: annually.
+abba: band with a symmetrical logo.
+motrin: big name in pain relief.
+atasket: bit of nonsense in a #1 Ella Fitzgerald hit.
+mini: bite-size.
+sucre: Bolivian capital.
+sunoco: brand with an arrow through its logo.
+boat: bath toy.
+berniemac: comic who acted in 'Ocean's Eleven'.
+draco: constellation between Ursa Major and Ursa Minor.
+have: consume.
+karo: corn syrup brand.
+tgif: cry at a happy hour, maybe.
+whoo: cry of excitement.
+narrated: did some documentary work.
+quail: draw back in fear.
+gross: 'eww!'.
+were: existed.
+sibelius: 'Finlandia' composer.
+yves: first name in fashion.
+nine: fluorine's atomic number.
+adhoc: formed for a particular purpose.
+zester: gadget for lemons.
+receipts: gate.
+acquiretickettoride: get a copy of a 1965 #1 Beatles hit?.
+banters: goes back and forth (with).
+elite: highest-level.
+craniumtwister: incredibly hard puzzle.
+above: upstairs.
+about: approximately.
+abuse: to hurt or injure by maltreatment.
+actor: a person who behaves in the manner of a character.
+acute: extremely sharp or severe.
+admit: to grant to be real, valid, or true.
+adopt: to become the owner or caretaker of(a pet, especially one from a shelter).
+adult: one who has attained maturity or legal age.
+after: behind in place or order.
+again: once more.
+agent: one that acts or has the power or authority to act.
+agree: to share an opinion or feeling.
+ahead: in advance, before.
+alarm: sudden fear or concern by the realization of danger or an impending setback.
+album: a set of musical recordings that are issued together.
+alert: watchful.
+alike: similar.
+alive: living.
+allow: to let do or happen.
+alone: solitary.
+along: in accordance with.
+alter: to change or make different.
+among: in the midst of; surrounded by.
+anger: a strong feeling of hostility.
+apple: _____ of one's eye.
+apply: to put into action.
+arena: an enclosed area for the presentation of sports events and spectacles.
+argue: to put forth reasons for or against; debate.
+arise: to come into being.
+array: an orderly, often imposing arrangement.
+basic: fundamental.
+basis: a fact or circumstance on which something is established.
+being: a person.
+billy: a metal pot or kettle used in camp cooking.
+bench: a long seat often without a back.
+black: racial group of African origin.
+blame: to consider responsible for a misdeed.
+blind: sightless.
+block: a solid piece of a hard substance.
+blood: fluid consisting of plasma, blood cells and platelets.
+board: a long flat slab of sawed lumber.
+bound: headed or intending to head in a specified direction.
+booth: small often enclosed compartment usually accommodating one person.
+boost: to increase.
+brain: informal, an extremely intelligent person.
+brand: a trademark.
+brief: short in time, concise.
+breed: to produce offspring.
+buyer: customer.
+cable: ____ television.
+calif: the civil and religious leader of a Muslim state.
+civil: less common word for civic.
+chest: a sturdy box.
+china: high quality porcelain.
+claim: to state to be true.
+clear: free from clouds, mist or haze.
+close: near in space or time.
+almost: slightly short of.
+cover: to place something upon or over so as to protect or conceal.
+crowd: a throng.
+craft: to make or construct with care of ingenuity.
+coach: a bus designed for long-distance passenger service.
+click: a brief, sharp sound.
+class: a kind of category.
+chief: one who is highest in rank or authority, a leader.
+cheap: stingy.
+coast: land next to the sea.
+court: pay ____ to; woo.
+crash: to break violently.
+cross: a crufix.
+curve: bend.
+drill: an exercise for teaching a skill by repetition.
+drawn: haggard, as form of fatigue or ill health.
+draft: a current of air in an enclosed area.
+dream: an unrealistic hope.
+delay: to postpone.
+enemy: one who opposes or is hostile to an idea or cause.
+entry: a means or a place by which to enter.
+false: contrary to fact or truth.
+fault: a character weakness, especially a minor one.
+final: last.
+flash: to give off light.
+forum: a medium for open discussion or voicing of ideas.
+frank: sincere.
+fraud: a cheat.
+giant: a person or thing of great size.
+globe: the earth.
+grade: a number indicating a student's level of accomplishment.
+guess: to predict.
+hence: therefore.
+harry: to disturb.
+henry: the SI unit of inductance.
+inner: located or occurring farther inside.
+japan: to coat with a glossy finish.
+joint: a place at which to things are joined.
+jones: an addiction or craving.
+jimmy: a short crowbar with curved ends.
+judge: to form an opinion.
+mayor: the head of government of a city.
+maybe: uncertainty.
+match: one that is exactly like another.
+maria: a dark region of considerable extent on the surface of the moon.
+march: to walk steadily and rhythmically forward in step with others.
+maker: one that makes or manufactures.
+major: greater than others in importance or rank.
+magic: the art or practice of using charms, spells, or rituals to attempt to produce supernatural effects or control events in nature.
+loose: no fastened, restrained, or contained.
+logic: valid reasoning.
+level: a relative degree, as of achievement, intensity, or concentration.
+least: superlative of little.
+layer: a depth or level.
+laser: used to remove tattoos.
+large: of greater than average size.
+label: a descriptive term.
+known: proved or generally recognized.
+prime: first or highest in rank or importance.
+press: to iron (clothing, for example).
+place: an area with definite or indefinite boundaries.
+plain: obvious to the perception or mind; evident.
+pilot: one who operates or is licensed to operate an aircraft in flight.
+phase: a temporary manner, attitude or pattern of behavior.
+paint: the face cards in a deck of cards (slang).
+panel: a section of a telephone switchboard.
+occur: to take place; happen.
+ought: to express a desire or wish on the part of the speaker.
+order: a command.
+ocean: the entire body of salt water that covers more than 70% of the earth's surface.
+newly: recently.
+nurse: doctor's assistant.
+never: not at all.
+novel: strikingly new, unusual.
+movie: film.
+mount: to climb or ascend.
+motor: a machine that produces or imparts motion.
+moral: the lesson taught by a fable.
+prove: to establish the truth or validity of something.
+prize: something won of offered as an award.
+prior: preceding in time or order.
+plant: a person or thing 'placed' in a group of spectators to influence behavior.
+pound: a unit of weight.
+price: the cost.
+pride: a sense of one's own proper dignity or value.
+point: sharp end.
+pitch: to throw.
+plate: a license '_____'.
+paper: news'___'.
+scope: the range of one's perceptions, thoughts, or actions.
+scene: behind the '____'.
+royal: of or relating to a monarch.
+rural: relating to the country.
+route: road.
+robin: north American songbird.
+river: a large natural stream of water emptying into an ocean.
+rival: one who attempts to equal or surpass another, or who pursues the same object as another.
+right: correct.
+refer: to direct to a source for help or information.
+ready: prepared.
+reach: extend.
+ratio: relation in degree or number between two similar things.
+rapid: great speed.
+range: an amount or extent of variation.
+raise: elevate.
+radio: a device, such as a walkie-talkie, that transmits or receives such signals.
+quite: truly.
+quiet: the quality or condition of being quiet.
+quick: speedy.
+queen: a female sovereign.
+stuck: informal baffled or nonplussed.
+stuff: unspecified material.
+study: the effort to acquire knowledge.
+strip: to remove an exterior coating.
+stock: a supply accumulated for future use.
+still: not moving or in motion.
+state: a condition or mode of being.
+steam: the vapor phase of water.
+stand: to remain valid, effective or unaltered.
+smith: a metalworker.
+solve: to find an answer for a problem.
+staff: an aid in walking or climbing.
+solid: of definite shape and volume.
+spare: to use or supply with restraint.
+sorry: sorrow.
+slide: glide.
+skill: talent.
+sight: field of vision.
+since: continuously from.
+share: portion.
+shelf: bedrock.
+short: not tall.
+shock: sudden distress.
+shell: the external part of the ear.
+sharp: abrupt or acute.
+shape:  the figure.
+unity: state of being united into a whole.
+union: alliance.
+under: lower.
+undue: excessive.
+twice: in two cases or on two occasions.
+treat: to handle in a certain way, often used with as.
+trend: current style.
+track: a succession of marks left by something that has passed.
+touch: come in contact with.
+title: a heading.
+topic: subject.
+today: the present.
+tight: snug.
+throw: propel.
+these: plural of this.
+theme: a subject of artistic representation.
+those: plural of that.
+terry: a kind of cloth used for bath towels.
+teeth: more than one tooth.
+taste: to distinguish flavors.
+suite: a series of connected rooms.
+stake: to risk.
+spent: depleted of energy.
+split: divide.
+yield: to give up ( an advantage, for example) to another in defeat.
+youth: the time of life between childhood and maturity.
+young: newly begun or formed; not advanced.
+write: to spell.
+world: the universe.
+while: a period of time.
+whole: complete.
+whose: a possessive who.
+which: what particular one or ones?.
+wheel: ' I love watching ____ of fortune'.
+water: H2O.
+watch: to look or observe.
+urban: related to city life.
+vital: necessary to the continuation of life.
